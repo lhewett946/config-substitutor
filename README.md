@@ -1,4 +1,4 @@
-# minecraft-configs
+# config-substitutor
 The config_switcher.py script allows users to define a set of config changes that they would like to make. These changes are stored in the .overrides files, which use a JSON format as described below:
 ```json
 {
