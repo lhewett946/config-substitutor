@@ -14,4 +14,4 @@ Storing the config file changes in this format means that it is easy to tell whe
 
 Currently there is no error checking on the JSON parsing, so an invalid JSON input will cause the script to crash. It is suggested that the JSON input is validated by an external tool (such as http://jsonlint.com/) before the script is used.
 
-Usage : add the override files into the Minecraft instance's config directory and run the script from there. I suggest using one .overrides file per mod - although if you wish you could use a single file for all your mods!
+Usage : create the override files and run the script, providing the command line arguments for the directory containing the overrides and the directory containing the config files. By default the script will assume that both are in the same directory as the script. I suggest using one .overrides file per mod - although if you wish you could use a single file for all your mods!

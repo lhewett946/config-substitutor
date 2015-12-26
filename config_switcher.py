@@ -2,6 +2,7 @@
 
 import os
 import json
+import argparse
 
 ## load json file to a Python dictionary
 def load_json(filename):
@@ -10,9 +11,10 @@ def load_json(filename):
 	return overrides
 
 ## perform the replacements
-def replace_lines(file, overrides):
-	if os.path.isfile(file):
-		config_file = open(file,'r')
+def replace_lines(file, overrides, directory):
+	filepath = os.path.join(directory, file)
+	if os.path.isfile(filepath):
+		config_file = open(filepath,'r')
 		file_lines = config_file.readlines()
 		config_file.close()		
 
@@ -37,19 +39,25 @@ def replace_lines(file, overrides):
 				print(file + ": Unable to override " + override["original"] + " with " + override["modified"])
 
 		# write out modified file
-		config_file = open(file, 'w')
+		config_file = open(filepath, 'w')
 		config_file.writelines(file_lines)
 		config_file.close()
 	else:
 		print(file + " does not exist")
 
+# parse command line arguments
+parser = argparse.ArgumentParser()
+parser.add_argument("--config-dir", dest='config_dir', action='store', default=".", type=str, help="The directory containing the config files to be modified")
+parser.add_argument("--override-dir", dest='override_dir', action='store', default=".", type=str, help="The directory containing the override files to be applied")
+args = parser.parse_args()
+
 # find all overrides in the directory
-for file in os.listdir("."):
+for file in os.listdir(args.override_dir):
 	if file.endswith(".overrides"):
 		overrides = load_json(file)
 
 		for config_filename in overrides:
 			option_overrides = overrides[config_filename]
-			replace_lines(config_filename, option_overrides)
+			replace_lines(config_filename, option_overrides,args.config_dir)
 
 print ("Finished overriding config options")
