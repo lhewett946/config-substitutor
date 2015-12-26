@@ -1,0 +1,6 @@
+{
+	"forge.cfg":
+		[
+			{"original": "B:disableVersionCheck=false","modified": "B:disableVersionCheck=true"}
+		]
+}

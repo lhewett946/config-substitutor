@@ -1,0 +1,6 @@
+{
+	"AppliedEnergistics2\\AppliedEnergistics2.cfg":
+		[
+	 		{"original": "B:CertusQuartzWorldGen=true","modified": "B:CertusQuartzWorldGen=false"}
+		]
+}

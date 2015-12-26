@@ -1,0 +1,7 @@
+{
+	"cofh\\core\\common.cfg":
+		[
+			{"original": "B:FlatBedrock=false","modified": "B:FlatBedrock=true"},
+			{"original": "B:ReplaceVanillaGeneration=false","modified": "B:ReplaceVanillaGeneration=true"}
+		]
+}

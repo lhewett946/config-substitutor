@@ -1,0 +1,6 @@
+{
+	"LogisticsPipes.cfg":
+		[
+			{"original": "B:checkForUpdates=true","modified": "B:checkForUpdates=false"}
+		]
+}

@@ -1,0 +1,6 @@
+{
+	"MagicBees.cfg":
+		[
+			{"original": "B:disableVersionNotification=false","modified": "B:disableVersionNotification=true"}
+		]
+}

@@ -1,0 +1,8 @@
+{
+	"forestry\\common.conf":
+		[
+			{"original": "world.generate.apatite=true","modified": "world.generate.apatite=false"},
+			{"original": "world.generate.copper=true","modified": "world.generate.copper=false"},
+			{"original": "world.generate.tin=true","modified": "world.generate.tin=false"}
+		]
+}

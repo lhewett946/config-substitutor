@@ -1,0 +1,6 @@
+{
+	"harvestcraft.cfg":
+		[
+			{"original": "B:enablesaltGeneration=true","modified": "B:enablesaltGeneration=false"}
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"ProjectRed.cfg":
+		[
+			{"original": "B:\"Enable Version checking\"=true","modified": "B:\"Enable Version checking\"=false"},
+			{"original": "B:\"Copper Ore\"=true","modified": "B:\"Copper Ore\"=false"},
+			{"original": "B:\"Electrotine Ore\"=true","modified": "B:\"Electrotine Ore\"=false"},
+			{"original": "B:\"Marble Caves\"=true","modified": "B:\"Marble Caves\"=false"},
+			{"original": "B:\"Silver Ore\"=true","modified": "B:\"Silver Ore\"=false"},
+			{"original": "B:\"Tin Ore\"=true","modified": "B:\"Tin Ore\"=false"}
+		]
+}

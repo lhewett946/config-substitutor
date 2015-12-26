@@ -1,0 +1,8 @@
+{
+	"TinkersConstruct.cfg":
+		[
+			{"original": "B:\"Generate Aluminum\"=true","modified": "B:\"Generate Aluminum\"=false"},
+			{"original": "B:\"Generate Copper\"=true","modified": "B:\"Generate Copper\"=false"},
+			{"original": "B:\"Generate Tin\"=true","modified": "B:\"Generate Tin\"=false"}
+		]
+}

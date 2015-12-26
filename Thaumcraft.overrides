@@ -1,0 +1,7 @@
+{
+	"Thaumcraft.cfg":
+		[
+			{"original": "B:generate_amber_ore=true","modified": "B:generate_amber_ore=false"},
+			{"original": "B:generate_cinnibar_ore=true","modified": "B:generate_cinnibar_ore=false"}
+		]
+}

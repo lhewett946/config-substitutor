@@ -1,0 +1,6 @@
+{
+	"BigReactors\\BigReactors.cfg":
+		[
+	 		{"original": "B:GenerateYelloriteOre=true","modified": "B:GenerateYelloriteOre=false"}
+		]
+}

@@ -1,0 +1,6 @@
+{
+	"Bibliocraft.cfg":
+		[
+	 		{"original": "B:CheckForUpdates=true","modified": "B:CheckForUpdates=false"}
+		]
+}

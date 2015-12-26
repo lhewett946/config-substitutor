@@ -1,0 +1,7 @@
+{
+	"IguanaTinkerTweaks\\Modules.cfg":
+		[
+			{"original": "B:Override=false","modified": "B:Override=true"},
+			{"original": "B:Restrictions=true","modified": "B:Restrictions=false"}
+		]
+}

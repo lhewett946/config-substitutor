@@ -1,0 +1,10 @@
+{
+	"chisel.cfg":
+		[
+	 		{"original": "I:andesiteAmount=8","modified": "I:andesiteAmount=0"},
+			{"original": "I:dioriteAmount=8","modified": "I:dioriteAmount=0"},
+			{"original": "I:graniteAmount=8","modified": "I:graniteAmount=0"},
+			{"original": "I:limestoneAmount=8","modified": "I:limestoneAmount=0"},
+			{"original": "I:marbleAmount=7","modified": "I:marbleAmount=0"}
+		]
+}

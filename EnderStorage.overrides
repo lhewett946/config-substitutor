@@ -1,0 +1,6 @@
+{
+	"EnderStorage.cfg":
+		[
+			{"original": "checkUpdates=true","modified": "checkUpdates=false"}
+		]
+}

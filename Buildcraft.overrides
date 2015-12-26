@@ -1,0 +1,8 @@
+{
+	"buildcraft\\main.cfg":
+		[
+	 		{"original": "B:kinesisPowerLossOnTravel=false","modified": "B:kinesisPowerLossOnTravel=true"},
+			{"original": "B:canEnginesExplode=false","modified": "B:canEnginesExplode=true"},
+			{"original": "B:updateCheck=true","modified": "B:updateCheck=false"}
+		]
+}
