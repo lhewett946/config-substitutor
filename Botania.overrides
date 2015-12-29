@@ -1,8 +1,6 @@
 {
 	"Botania.cfg":
 		[
-	 		{"original": "I:passiveWither.time=48000","modified": "I:passiveWither.time=-1"},
-			{"original": "B:versionChecking.enabled=true","modified": "B:versionChecking.enabled=false"},
-			{"original": "I:worldgen.flower.density=16","modified": "I:worldgen.flower.density=15"}
+			{"original": "B:versionChecking.enabled=true","modified": "B:versionChecking.enabled=false"}
 		]
 }
