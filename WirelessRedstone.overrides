@@ -1,0 +1,6 @@
+{
+	"WirelessRedstone.cfg":
+		[
+			{"original": "checkUpdates=true","modified": "checkUpdates=false"}
+		]
+}

@@ -1,0 +1,6 @@
+{
+	"rftools\\main.cfg":
+		[
+			{"original": "B:normalTerrainInheritsOverworld=false","modified": "B:normalTerrainInheritsOverworld=true"}
+		]
+}
