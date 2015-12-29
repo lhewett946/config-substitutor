@@ -1,0 +1,7 @@
+{
+	"Natura.cfg":
+		[
+			{"original": "I:\"Maximum Baby Heatscar Spiders on Spider Death\"=4","modified": "I:\"Maximum Baby Heatscar Spiders on Spider Death\"=2"},
+			{"original": "I:\"Minimum Baby Heatscar Spiders on Spider Death\"=2","modified": "I:\"Minimum Baby Heatscar Spiders on Spider Death\"=0"}
+		]
+}
