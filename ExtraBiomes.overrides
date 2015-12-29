@@ -1,0 +1,20 @@
+{
+	"extrabiomes.cfg":
+		[
+			{"original": "B:alpine.enablegeneration=true","modified": "B:alpine.enablegeneration=false"},
+			{"original": "B:glacier.enablegeneration=true","modified": "B:glacier.enablegeneration=false"},
+			{"original": "B:icewasteland.enablegeneration=true","modified": "B:icewasteland.enablegeneration=false"},
+			{"original": "B:meadow.enablegeneration=true","modified": "B:meadow.enablegeneration=false"},
+			{"original": "B:mountaindesert.enablegeneration=true","modified": "B:mountaindesert.enablegeneration=false"},
+			{"original": "B:mountaintaiga.enablegeneration=true","modified": "B:mountaintaiga.enablegeneration=false"},
+			{"original": "B:pineforest.enablegeneration=true","modified": "B:pineforest.enablegeneration=false"},
+			{"original": "B:redwoodforest.enablegeneration=true","modified": "B:redwoodforest.enablegeneration=false"},
+			{"original": "B:shrubland.enablegeneration=true","modified": "B:shrubland.enablegeneration=false"},
+			{"original": "B:snowyforest.enablegeneration=true","modified": "B:snowyforest.enablegeneration=false"},
+			{"original": "B:snowyrainforest.enablegeneration=true","modified": "B:snowyrainforest.enablegeneration=false"},
+			{"original": "B:temporaterainforest.enablegeneration=true","modified": "B:temporaterainforest.enablegeneration=false"},
+			{"original": "B:tundra.enablegeneration=true","modified": "B:tundra.enablegeneration=false"},
+			{"original": "B:wasteland.enablegeneration=true","modified": "B:wasteland.enablegeneration=false"},
+			{"original": "B:\"Relative sapling drops\"=false","modified": "B:\"Relative sapling drops\"=true"}
+		]
+}
