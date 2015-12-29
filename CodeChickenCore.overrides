@@ -1,7 +1,6 @@
 {
 	"CodeChickenCore.cfg":
 		[
-			{"original": "checkUpdates=true","modified": "checkUpdates=false"},
-			{"original": "environmentallyFriendlyCreepers=false","modified": "environmentallyFriendlyCreepers=true"}
+			{"original": "checkUpdates=true","modified": "checkUpdates=false"}
 		]
 }

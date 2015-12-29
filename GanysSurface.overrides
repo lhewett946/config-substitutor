@@ -1,7 +1,0 @@
-{
-	"GanysMods\\ganyssurface.cfg":
-		[
-			{"original": "B:\"Enable No Recipe Conflict for only the vanilla Crafting Tables\"=true","modified": "B:\"Enable No Recipe Conflict for only the vanilla Crafting Tables\"=false"},
-			{"original": "B:shouldDoVersionCheck=true","modified": "B:shouldDoVersionCheck=false"}
-		]
-}

@@ -2,7 +2,6 @@
 	"cofh\\core\\common.cfg":
 		[
 			{"original": "B:FlatBedrock=false","modified": "B:FlatBedrock=true"},
-			{"original": "B:ReplaceVanillaGeneration=false","modified": "B:ReplaceVanillaGeneration=true"},
-			{"original": "B:EnableUpdateNotifications=true","modified": "B:EnableUpdateNotifications=false"}
+			{"original": "B:ReplaceVanillaGeneration=false","modified": "B:ReplaceVanillaGeneration=true"}
 		]
 }

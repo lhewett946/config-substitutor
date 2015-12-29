@@ -3,10 +3,5 @@
 		[
 			{"original": "B:Override=false","modified": "B:Override=true"},
 			{"original": "B:Restrictions=true","modified": "B:Restrictions=false"}
-		],
-	
-	"IguanaTinkerTweaks\\main.cfg":
-		[
-			{"original": "I:durabilityPercentage=80","modified": "I:durabilityPercentage=100"}
 		]
 }
