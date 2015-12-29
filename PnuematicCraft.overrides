@@ -1,0 +1,7 @@
+{
+	"PnuematicCraft.cfg":
+		[
+			{"original": "B:\"Enable Dungeon Loot generation\"=true","modified": "B:\"Enable Dungeon Loot generation\"=false"},
+			{"original": "B:\"Enable Update Checker\"=true","modified": "B:\"Enable Update Checker\"=false"}
+		]
+}
