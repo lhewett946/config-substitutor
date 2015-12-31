@@ -1,0 +1,8 @@
+{
+	"Mekanism.cfg":
+		[
+			{"original": "I:CopperPerChunk=16","modified": "I:CopperPerChunk=0"},
+			{"original": "I:OsmiumPerChunk=12","modified": "I:OsmiumPerChunk=0"},
+			{"original": "I:TinPerChunk=14","modified": "I:TinPerChunk=0"}
+		]
+}
