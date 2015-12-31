@@ -2,6 +2,8 @@
 	"GanysMods\\ganyssurface.cfg":
 		[
 			{"original": "B:\"Enable No Recipe Conflict for only the vanilla Crafting Tables\"=true","modified": "B:\"Enable No Recipe Conflict for only the vanilla Crafting Tables\"=false"},
-			{"original": "B:shouldDoVersionCheck=true","modified": "B:shouldDoVersionCheck=false"}
+			{"original": "B:shouldDoVersionCheck=true","modified": "B:shouldDoVersionCheck=false"},
+			{"original": "B:\"Enable 1.8 Stones\"=true","modified": "B:\"Enable 1.8 Stones\"=false"},
+			{"original": "B:\"Enable Basalt\"=true","modified": "B:\"Enable Basalt\"=false"}
 		]
 }
