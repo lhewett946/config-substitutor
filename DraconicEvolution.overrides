@@ -1,6 +1,7 @@
 {
 	"DraconicEvolution.cfg":
 		[
-			{"original": "B:\"Enable version checker\"=true","modified": "B:\"Enable version checker\"=false"}
+			{"original": "B:\"Enable version checker\"=true","modified": "B:\"Enable version checker\"=false"},
+			{"original": "B:\"Disable Ore Spawn (Overworld)\"=false","modified": "B:\"Disable Ore Spawn (Overworld)\"=true"}
 		]
 }
