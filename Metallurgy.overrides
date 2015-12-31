@@ -1,0 +1,27 @@
+{
+	"Metallurgy.cfg":
+		[
+			{"original": "B:Adamantine=true","modified": "B:Adamantine=false"},
+			{"original": "B:AstralSilver=true","modified": "B:AstralSilver=false"},
+			{"original": "B:Atlarus=true","modified": "B:Atlarus=false"},
+			{"original": "B:Bitumen=true","modified": "B:Bitumen=false"},
+			{"original": "B:Carmot=true","modified": "B:Carmot=false"},
+			{"original": "B:Copper=true","modified": "B:Copper=false"},
+			{"original": "B:DeepIron=true","modified": "B:DeepIron=false"},
+			{"original": "B:Infuscolium=true","modified": "B:Infuscolium=false"},
+			{"original": "B:Manganese=true","modified": "B:Manganese=false"},
+			{"original": "B:Magnesium=true","modified": "B:Magnesium=false"},
+			{"original": "B:Mithril=true","modified": "B:Mithril=false"},
+			{"original": "B:Orichalcum=true","modified": "B:Orichalcum=false"},
+			{"original": "B:Oureclase=true","modified": "B:Oureclase=false"},
+			{"original": "B:Phosphorite=true","modified": "B:Phosphorite=false"},
+			{"original": "B:Platinum=true","modified": "B:Platinum=false"},
+			{"original": "B:Potash=true","modified": "B:Potash=false"},
+			{"original": "B:Rubracium=true","modified": "B:Rubracium=false"},
+			{"original": "B:Saltpeter=true","modified": "B:Saltpeter=false"},
+			{"original": "B:Silver=true","modified": "B:Silver=false"},
+			{"original": "B:Sulfur=true","modified": "B:Sulfur=false"},
+			{"original": "B:Tin=true","modified": "B:Tin=false"},
+			{"original": "B:Zinc=true","modified": "B:Zinc=false"}
+		]
+}
