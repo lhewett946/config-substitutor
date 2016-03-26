@@ -1,6 +1,6 @@
 {
 	"MrTJPCore.cfg":
 		[
-			{"original": "B:check_versions=true","modified": "B:check_versions=false"}
+			{"original": "B:\"Version Checking\"=true","modified": "B:\"Version Checking\"=false"}
 		]
 }

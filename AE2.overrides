@@ -2,10 +2,5 @@
 	"AppliedEnergistics2\\AppliedEnergistics2.cfg":
 		[
 	 		{"original": "B:CertusQuartzWorldGen=true","modified": "B:CertusQuartzWorldGen=false"}
-		],
-		
-	"AppliedEnergistics2\\VersionChecker.cfg":
-		[
-			{"original": "B:enabled=true","modified": "B:enabled=false"}
 		]
 }
