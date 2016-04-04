@@ -9,6 +9,7 @@
 			{"original": "B:mountaintaiga.enablegeneration=true","modified": "B:mountaintaiga.enablegeneration=false"},
 			{"original": "B:pineforest.enablegeneration=true","modified": "B:pineforest.enablegeneration=false"},
 			{"original": "B:redwoodforest.enablegeneration=true","modified": "B:redwoodforest.enablegeneration=false"},
+			{"original": "B:redwoodlush.enablegeneration=true","modified": "B:redwoodlush.enablegeneration=false"},
 			{"original": "B:shrubland.enablegeneration=true","modified": "B:shrubland.enablegeneration=false"},
 			{"original": "B:snowyforest.enablegeneration=true","modified": "B:snowyforest.enablegeneration=false"},
 			{"original": "B:snowyrainforest.enablegeneration=true","modified": "B:snowyrainforest.enablegeneration=false"},
