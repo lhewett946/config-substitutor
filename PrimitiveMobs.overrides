@@ -1,0 +1,6 @@
+{
+	"primitivemobs\\spawn_rates.cfg":
+		[
+			{"original": "I:\"Lily Lurker Spawn Frequency. Spawns as WaterCreature (In swamps in water)\"=70","modified": "I:\"Lily Lurker Spawn Frequency. Spawns as WaterCreature (In swamps in water)\"=0"}
+		]
+}
