@@ -2,6 +2,7 @@
 	"extrabiomes.cfg":
 		[
 			{"original": "B:alpine.enablegeneration=true","modified": "B:alpine.enablegeneration=false"},
+			{"original": "B:extremejungle.enablegeneration=true","modified":"B:extremejungle.enablegeneration=false"},
 			{"original": "B:glacier.enablegeneration=true","modified": "B:glacier.enablegeneration=false"},
 			{"original": "B:icewasteland.enablegeneration=true","modified": "B:icewasteland.enablegeneration=false"},
 			{"original": "B:meadow.enablegeneration=true","modified": "B:meadow.enablegeneration=false"},
